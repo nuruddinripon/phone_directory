@@ -1,0 +1,11 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    
+}
+#bottomTotop{
+    position: fixed;
+    bottom: 15px;
+    right: 0;
+
+}
